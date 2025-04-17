@@ -19,13 +19,6 @@ install node-modules
 ```
 
 
-## API Reference
-
-
-```http
-https://api.scryfall.com/cards/${kaartId}
-```
-
 ## Built with
 
 - html
